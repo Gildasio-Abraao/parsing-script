@@ -1,7 +1,7 @@
 
 # parsing.sh
 
-``parsing.sh`` como o próprio nome já diz, é um script que faz _parsing_ código fonte
+``parsing.sh`` como o próprio nome já diz, é um script que faz _parsing_ no código fonte
 HTML dos sites.
 
 
